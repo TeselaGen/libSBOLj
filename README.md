@@ -28,7 +28,7 @@ libSBOLj.jar as described above, you can use it to validate files as follows:
 
     java -jar libSBOLj.jar examples/data/BBa_I0462.xml
     
-If validation is successful, the program will print the contents of the SBOL document. Use --quite option if you want to
+If validation is successful, the program will print the contents of the SBOL document. Use --quiet option if you want to
 suppress this output. 
 
 If validation fails with an error, there will be a message printed about the validation error. To see an example, try
